@@ -67,7 +67,7 @@ BOOL IsAdmin(void)
 cleanup:
 
 	if (InfoBuffer)
-		delete InfoBuffer;
+		delete []InfoBuffer;
 
 	return bRet;
 }

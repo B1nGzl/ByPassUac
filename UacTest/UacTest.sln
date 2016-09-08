@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UacTest", "UacTest.vcproj", "{8472E4E7-8725-4BAF-891E-B24027AF21A0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetMyUacLevel", "..\GetMyUacLevel\GetMyUacLevel.vcproj", "{3DD2E03A-20C5-4B8E-A19A-DBB866BEEAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8472E4E7-8725-4BAF-891E-B24027AF21A0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8472E4E7-8725-4BAF-891E-B24027AF21A0}.Debug|Win32.Build.0 = Debug|Win32
+		{8472E4E7-8725-4BAF-891E-B24027AF21A0}.Release|Win32.ActiveCfg = Release|Win32
+		{8472E4E7-8725-4BAF-891E-B24027AF21A0}.Release|Win32.Build.0 = Release|Win32
+		{3DD2E03A-20C5-4B8E-A19A-DBB866BEEAFC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3DD2E03A-20C5-4B8E-A19A-DBB866BEEAFC}.Debug|Win32.Build.0 = Debug|Win32
+		{3DD2E03A-20C5-4B8E-A19A-DBB866BEEAFC}.Release|Win32.ActiveCfg = Release|Win32
+		{3DD2E03A-20C5-4B8E-A19A-DBB866BEEAFC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
